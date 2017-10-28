@@ -1,4 +1,4 @@
 # url-beautifier
 
-Beautifier les URL
+**Beautifier les URL**
 
